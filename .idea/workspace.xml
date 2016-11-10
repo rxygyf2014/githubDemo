@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d36e5b-3a8b-410e-9a02-adabc5913aa4" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/branch" afterPath="$PROJECT_DIR$/branch" />
-    </list>
+    <list default="true" id="b6d36e5b-3a8b-410e-9a02-adabc5913aa4" name="默认的" comment="" />
     <ignored path="githubDemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -208,12 +206,12 @@
       <updated>1478684184203</updated>
       <workItem from="1478684185972" duration="1222000" />
       <workItem from="1478740290294" duration="1342000" />
-      <workItem from="1478742223551" duration="632000" />
+      <workItem from="1478742223551" duration="721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3196000" />
+    <option name="totallyTimeSpent" value="3285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
