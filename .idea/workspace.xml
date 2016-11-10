@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b6d36e5b-3a8b-410e-9a02-adabc5913aa4" name="默认的" comment="" />
+=======
+    <list default="true" id="b6d36e5b-3a8b-410e-9a02-adabc5913aa4" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/branch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> parent of 95839d5... ruan新建的一个分支
     <ignored path="githubDemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,6 +52,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ruan" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ruan">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,6 +63,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> parent of 95839d5... ruan新建的一个分支
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -64,7 +74,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/ruan" />
+=======
+>>>>>>> parent of 95839d5... ruan新建的一个分支
         <option value="$PROJECT_DIR$/branch" />
       </list>
     </option>
@@ -209,6 +222,7 @@
       <option name="presentableId" value="Default" />
       <updated>1478684184203</updated>
       <workItem from="1478684185972" duration="1222000" />
+<<<<<<< HEAD
       <workItem from="1478740290294" duration="1342000" />
       <workItem from="1478742223551" duration="721000" />
 <<<<<<< HEAD
@@ -219,10 +233,14 @@
 =======
       <workItem from="1478767656845" duration="298000" />
 >>>>>>> parent of 8b431e7... 更改
+=======
+      <workItem from="1478740290294" duration="1058000" />
+>>>>>>> parent of 95839d5... ruan新建的一个分支
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="3623000" />
@@ -232,6 +250,9 @@
 =======
     <option name="totallyTimeSpent" value="3583000" />
 >>>>>>> parent of 8b431e7... 更改
+=======
+    <option name="totallyTimeSpent" value="2280000" />
+>>>>>>> parent of 95839d5... ruan新建的一个分支
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -310,6 +331,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/branch">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -322,5 +344,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> parent of 95839d5... ruan新建的一个分支
   </component>
 </project>
