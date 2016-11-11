@@ -246,23 +246,35 @@
 =======
       <workItem from="1478740290294" duration="1058000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
       <workItem from="1478742157834" duration="36000" />
       <workItem from="1478767600005" duration="31000" />
       <workItem from="1478831737167" duration="7000" />
       <workItem from="1478831932383" duration="81000" />
 =======
+>>>>>>> refs/remotes/origin/master
 >>>>>>> parent of 95839d5... ruan新建的一个分支
 =======
       <workItem from="1478767656845" duration="5000" />
 >>>>>>> parent of a4473cf... 时间
+<<<<<<< HEAD
+=======
+      <workItem from="1478742157834" duration="36000" />
+>>>>>>> refs/remotes/origin/master
+=======
 >>>>>>> refs/remotes/origin/ruan
+>>>>>>> refs/remotes/origin/master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
     <option name="totallyTimeSpent" value="2435000" />
 =======
+>>>>>>> refs/remotes/origin/master
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -280,7 +292,13 @@
 =======
     <option name="totallyTimeSpent" value="3290000" />
 >>>>>>> parent of a4473cf... 时间
+<<<<<<< HEAD
+=======
+    <option name="totallyTimeSpent" value="2316000" />
+>>>>>>> refs/remotes/origin/master
+=======
 >>>>>>> refs/remotes/origin/ruan
+>>>>>>> refs/remotes/origin/master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -321,6 +339,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/branch">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
         <state relative-caret-position="0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
@@ -337,6 +359,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> refs/remotes/origin/master
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -444,7 +471,23 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 95839d5... ruan新建的一个分支
+=======
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> refs/remotes/origin/master
+=======
+=======
+>>>>>>> parent of 95839d5... ruan新建的一个分支
+>>>>>>> refs/remotes/origin/master
   </component>
 </project>
